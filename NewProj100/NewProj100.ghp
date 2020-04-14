@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><_c buildID="I20191203_1447" certificateAuthority="KEY_1024_BITS" comments="Project created on April 14, 2020" creationVersion="10.0.2" domain="default" extDocPrefix="" name="NewProj100" owner="Mark" rulesCacheUri="%%PROJECT/ROOT%%Rules" uuid="00000171-7a70-ddee-0000-643460bae3a4">
+   <rootEnvironmentConfig isOverridingSecretsNamespace="false" overridingSecretsNamespace=""/>
+   <dateTimeConfig date="yyyy/MM/dd" dateTime="dd-MMM-yyyy HH:mm:ss" time="HH:mm:ss.SSS"/>
+   <serverSettings ghRepositoryURL="https://localhost:5443/RTCP" trustSource="INBUILT_CA" trustStorePath="">
+      <dbConnectionParameters maxConnections="5" poolName="DefaultPoolName">
+         <connectionParams CICSEnv="false" MVSEnv="false" ZOSEnv="false" driverClass="" password="#com.ghc.1!f732" recordFilters="" schema="" url="" useSsl="false" user="">
+            <stubSettings maxProcCallCount="10000" maxResultSetRowCount="10000" maxRowCount="10000" password="#com.ghc.1!a1ad" procedureLearningBehaviour="1" schema="" url="" useIntegratedDB="true" user=""/>
+            <storedProcedureFilter catalogFilterEnabled="false" catalogFilterPattern="" procedureFilterEnabled="false" procedureFilterPattern="" schemaFilterEnabled="true" schemaFilterPattern="" storedProceduresRetrievalEnabled="false" useConnectionUsername="true"/>
+            <timestampFormatting timestampFormatZero="false" timestampFormattingEnabled="false" timestampPrecision="9"/>
+         </connectionParams>
+      </dbConnectionParameters>
+      <automationServer enabled="true" hostname="192.198.100.176.nip.io" port="443" projectId="1050" projectName="VirtualTraveler" publishResults="false" trustSource="TRUST_ALL" trustStorePassword="#com.ghc.1!b118" trustStorePath=""/>
+   </serverSettings>
+   <permissionsSettings autoLogin="true" host="WIN-FVB9GI2IC9P" permFactId="ldap.permissions.factory.none" port="389" pswd="csS52GgnCDw6iumgzUtpHFhWGG00UOkHpa0qjMUwqPc=$RBZoGnzjI/vrNgHa1dPdnRq+gjoCU1YOtDO12iKSgkg="/>
+</_c>
